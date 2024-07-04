@@ -1,8 +1,8 @@
-# （仮）【Cloudflare Workers】Bun+HonoでREST APIを作成　drizzleを使ってデータベースのリレーションを実現！！
+# 【Cloudflare Workers】Bun+HonoでREST APIを作成　drizzleを使ってデータベースのリレーションを実現！！
 
 ## YouTube
 
-[!["（仮）【Cloudflare Workers】Bun+HonoでREST APIを作成　drizzleを使ってデータベースのリレーションを実現！！"](https://i.ytimg.com/vi/<youtube-id>>/maxresdefault.jpg)](https://youtu.be/<youtube-id>>)
+[!["【Cloudflare Workers】Bun+HonoでREST APIを作成　drizzleを使ってデータベースのリレーションを実現！！"](https://i.ytimg.com/vi/oVF_WaLQnUw/maxresdefault.jpg)](https://youtu.be/oVF_WaLQnUw)
 
 ## 技術選定
 
