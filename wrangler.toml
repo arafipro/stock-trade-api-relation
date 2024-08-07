@@ -4,5 +4,5 @@ compatibility_date = "2023-12-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "stock-trade-db"
-database_id = "fc4a3417-2100-4480-b80b-d5322bf741c3"
+database_id = "<unique-ID-for-your-database>"
 migrations_dir = "drizzle/migrations"
